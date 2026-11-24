@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+figures/
+data/mittcda_sample_v4_sigma.csv
+*.docx
