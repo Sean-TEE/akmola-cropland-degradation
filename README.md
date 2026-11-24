@@ -1,6 +1,6 @@
 # MITT-CDA: cropland degradation screening for Akmola Oblast, Kazakhstan
 
-Code and data for the manuscript *A Reproducible Multi-Index Threshold and Trend Framework for Cropland Degradation Screening from Landsat 8 Time Series: The Case of Akmola Oblast, Kazakhstan* (Akanova, Nurzhan, Bigaliyeva, Ospanova, Kubegenova).
+Code and data for the manuscript *A Reproducible Multi-Index Threshold and Trend Framework for Cropland Degradation Screening from Landsat 8 Time Series: The Case of Akmola Oblast, Kazakhstan* (Akanova, Assylbek, Bigaliyeva, Ospanova, Kubegenova).
 
 MITT-CDA (Multi-Index Threshold and Trend Cropland Degradation Assessment) screens dryland cropland using five Landsat 8 indicators: NDVI, NDMI, LST, TGSI and SI. The anomalies are standardized against a 2013–2019 baseline whose scale is shrunk towards the 25 km neighbourhood. They are then adjusted for seasonal precipitation (ERA5-Land) and expressed relative to the cropland of the surrounding 25 km cell. Two separate rules flag pixels:
 
